@@ -47,7 +47,8 @@ function NavDireitaF(){
 }
 function NavEsquerdaL(){
     TiLivro.innerHTML = "Primeira Trilogia"
-    txtLivro.innerHTML = "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci iste, reprehenderit consectetur laboriosam quasi architecto veniam dicta necessitatibus et tenetur, obcaecati libero facere? Sed possimus hic recusandae. Ducimus, cupiditate ipsum."
+    txtLivro.innerHTML = "A primeira trilogia de duna é composta pelos livros: 'Duna', 'Messias de Duna' e 'Filhos de Duna', respectivamente. Os livros, diferentemente dos filmes, abordam muito mais a visão politica do universo e a perpectiva economica das disputas entre os protagonistas. Durante os primeiros livros, vemos a jornada de amadurecimento do personagem até o seu desfecho final. Mesmo sendo a trilogia que molda todo o caminho para as posteriores, Os livros 'filhos de duna' e 'messias de duna' são os menos queridos pelos fãs."   
+
     imgLivro.src = "src/img/TriloDunaInicial.png"
 }
 function NavDireitaL(){
